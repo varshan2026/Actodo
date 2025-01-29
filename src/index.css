@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(240, 240, 240);
+  color: rgb(0, 0, 0);
+}
+
+/* input[type="text"], input[type="date"], input[type="time"] {
+  border: 1px solid black;
+  padding: 8px;
+  border-radius: 4px;
+  width: 100%;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus, input[type="date"]:focus, input[type="time"]:focus {
+  outline: none;
+  border-color: rgb(40, 171, 0);
+}
+
+button {
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  opacity: 0.9;
+} */
